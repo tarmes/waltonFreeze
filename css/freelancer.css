@@ -62,7 +62,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    background-color: #730000;
+    background-color: #38006b;
     color: #fff
 }
 
@@ -85,7 +85,7 @@ hr.style8 {
 
 header {
     text-align: center;
-    background: #730000;
+    background: #38006b;
     color: #fff
 }
 
@@ -126,7 +126,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom {
-    background: #ffa7b2;
+    background: #81d4fa;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -162,8 +162,16 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:active,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:hover {
-    color: #010101;
-    background: #ffa7b2
+    color: #fff;
+    background: #38006b;
+    border-top-left-radius: 25px !important;
+    border-top-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+}
+
+.navbar-custom .navbar-nav li:active a:hover {
+
 }
 
 .navbar-custom .navbar-toggle {

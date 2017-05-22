@@ -1395,7 +1395,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #5e5060
+    background-color: #9c4dcc
 }
 
 button,
@@ -1437,7 +1437,7 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 70%;
+    max-width: 90%;
     height: auto
 }
 
