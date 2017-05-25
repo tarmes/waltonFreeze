@@ -1394,8 +1394,8 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #333;
-    background-color: #9c4dcc
+    color: #fff;
+    background-color: #38006b
 }
 
 button,
@@ -1440,6 +1440,8 @@ img {
     max-width: 90%;
     height: auto
 }
+
+.img-center {margin:0 auto;}
 
 .img-rounded {
     border-radius: 6px
