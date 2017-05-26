@@ -232,6 +232,9 @@ section.success {
     }
 }
 
+
+.classWithPad { margin:0px; padding:17px; }
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
